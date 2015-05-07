@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Cranky's Cycling Blog
 tagline:          ''
-description:      'A mediocre club cyclist sometimes blogs about his hobby'
+description:      'A mediocre Scottish club cyclist who sometimes blogs about his hobby'
 url:              http://www.jimmycranky.co.uk
 baseurl:          /
 
