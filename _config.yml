@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Cranky's Cycling and Code
+title:            Cranky's Cycling Blog
 tagline:          'I like cycles and code'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://mcjimbob.github.io
+description:      ''
+url:              http://www.jimmycranky.co.uk
 baseurl:          /
 
 author:
