@@ -251,7 +251,8 @@ a.sidebar-nav-item:focus {
 
 /* Rounded avatars */
  .avatar {
-   border-radius: 50%;
+  width: 120px; 
+  border-radius: 50%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border: solid 2px silver;
