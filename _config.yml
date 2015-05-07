@@ -8,13 +8,13 @@ relative_permalinks: true
 
 # Setup
 title:            Cranky's Cycling Blog
-tagline:          'I like cycles and code'
-description:      ''
+tagline:          ''
+description:      'A mediocre club cyclist sometimes blogs about his hobby'
 url:              http://www.jimmycranky.co.uk
 baseurl:          /
 
 author:
-  name:           'Jimmy Brough'
+  name:           'Jimmy "Cranky" Brough'
   url:            https://twitter.com/mcjimbob
 
 paginate:         5
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/mcjimbob/mcjimbob.github.io
