@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bealach Mor Sportive 2015
-published: false
+published: true
 ---
 September 5, 2015
 
