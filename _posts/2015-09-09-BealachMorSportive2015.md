@@ -8,7 +8,7 @@ published: true
 | --- | --- |
 | Date | September 5, 2015 |
 | Distance | 89.4 miles / 143.9 km |
-| Elevation Gain | 8,353 feet / 2 545.99m |
+| Elevation Gain | 8,353 feet / 2,545.99m |
 | Conditions | Dry. Cloudy. Temp: 10&deg;C Wind: 11mph NW  |
 | Route | https://www.strava.com/routes/3199710 |
 | Official Time | 05:24:17 (20th) |
