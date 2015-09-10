@@ -50,7 +50,7 @@ I sat down at the dining table eating the bean chilli - (why did she give me it 
 
 I checked to see if Rod had text me. I assumed since he hadn't passed me that he'd stopped but no text suggested he was still out there. I sent him a text to make sure he was ok. I met up with Cat - she seemed to have enjoyed it. Rod text me back to let me know he was fine and that his chain had broke and though he'd done a temporary repair he'd decided to bail out rather than risk it in the steep slopes of the Bealach. Rubbish. I felt bad for him, but a sense of relief that he was fine and in hindsight I made the right choice not going back or waiting. 
 
-Time to head back home. The next race was getting back in time to take over daddy duties as Mrs Cranky was going out for tea at 6:30pm. I rolled up at 6:29pm.  Tekkers!
+Time to head back home - for real this time. The next race was getting back in time to take over daddy duties as Mrs Cranky was going out for tea at 6:30pm. I rolled up at 6:29pm.  Tekkers!
 
 In summary (this is the bit were you wished I'd told you to skip to at the start!): happy with my final time of 05:24:17 which placed me 20th. That route is a real challenge  but that's why we do it right? Would be lame without the suffering. Some stunning scenery and the weather was perfect as well. Dry. Cool. 
 
