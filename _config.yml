@@ -24,3 +24,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/mcjimbob/mcjimbob.github.io
+
+redcarpet:
+  extensions: [tables, autolink]
