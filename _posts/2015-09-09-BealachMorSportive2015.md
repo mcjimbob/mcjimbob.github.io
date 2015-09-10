@@ -7,8 +7,9 @@ published: true
 |   |   |
 | --- | --- |
 | Date | September 5, 2015 |
-| Distance | 89.4 miles |
-| Elevation Gain | 8,353 feet |
+| Distance | 89.4 miles / 143.9 km |
+| Elevation Gain | 8,353 feet / 2 545.99m |
+| Conditions | Dry. Cloudy. Temp: 10&deg;C Wind: 11mph NW  |
 | Route | https://www.strava.com/routes/3199710 |
 | Official Time | 05:24:17 (20th) |
 
@@ -52,7 +53,7 @@ I checked to see if Rod had text me. I assumed since he hadn't passed me that he
 
 Time to head back home - for real this time. The next race was getting back in time to take over daddy duties as Mrs Cranky was going out for tea at 6:30pm. I rolled up at 6:29pm.  Tekkers!
 
-In summary (this is the bit were you wished I'd told you to skip to at the start!): happy with my final time of 05:24:17 which placed me 20th. That route is a real challenge  but that's why we do it right? Would be lame without the suffering. Some stunning scenery and the weather was perfect as well. Dry. Cool. 
+In summary (this is the bit that you wish I told you to skip to at the start!): happy with my final time of 05:24:17 which placed me 20th. That route is a real challenge  but that's why we do it right? Would be lame without the suffering. Some stunning scenery and the weather was perfect as well. Dry. Cool. 
 
 All in all a great 90 miles on the bike. Plenty of friendly folk there. Very courteous, patient  driving, particularly on the narrow roads. Special mention to the local children who seemed inspired by the event, they'd made colourful banners and shouted encouragement. Humbling after last weeks experience with the mother encouraging her children to "shake the Pringles can at us" as they passed us, I realised that perhaps there is hope after all (maybe you just need to move to the West of Scotland)
 
