@@ -12,6 +12,8 @@ published: true
 | Route | https://www.strava.com/routes/3199710 |
 | Official Time | 05:24:17 (20th) |
 
+###test
+
 Last year, I climbed the Bealach Na Ba climb with Nico and Nicky P at the end of what was the toughest day of cycling I had ever completed. The daddy of all climbs in the UK, conquored after 200-odd miles at 1am in the morning, with no working lights. Bonkers. You'd think that would be enough to deter me from doing it again but I am a cyclist and, let's be honest, we a bit "no-right" in the head at times. I had yet to witness the Bealach in its full imposing glory. I hadn't been on that road since that night, indeed, I had NEVER seen that road. So despite already having ticked the climb from the bucket list - I had still had some beef with this one, I would get stare the Bealach right in the eye this time.
 
 A grueling drive straight after work, via Kyle of Lochalsh to drop my colleague off, saw me arrive at the bunkhouse at Ledgowan lodge in Achnasheen at about 10:15. A stag was standing about 10 foot from where I parked up - reminding me of the last time I climbed the Bealach - we thought we were being watched by a stag. There was no night of heavy drinking for me, the good name of COG Velo restored after the apparent disgrace of last year :-p, I had a belther with my roommate for a bit - a guy from Edinburgh RC who occasionally teaches at DJCAD and commutes in from his father-in-laws house in Errol (Small world) - lights were off by 11!
