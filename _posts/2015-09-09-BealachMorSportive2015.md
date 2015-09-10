@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Report: Bealach Mor Sportive 2015
+title: Report - Bealach Mor Sportive 2015
 published: true
 ---
 
-| | |
-| - | - | 
+|   |   |
+| --- | --- |
 | Date | September 5, 2015 |
 | Distance | 89.4 miles |
 | Elevation Gain | 8,353 feet |
