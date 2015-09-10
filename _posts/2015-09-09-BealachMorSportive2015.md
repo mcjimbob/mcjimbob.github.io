@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report - Bealach Mor Sportive 2015
+title: 'Report: Bealach Mor Sportive 2015'
 published: true
 ---
 
