@@ -260,3 +260,11 @@ a.sidebar-nav-item:focus {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
 }
+
+/* empty table header */
+th:empty {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
