@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'Report: Ullapool Mor Sportive 2015'
+title: "Report: Ullapool Mor Sportive 2015"
 published: false
 ---
+
 
 |   |   |
 | --- | --- |
@@ -17,9 +18,9 @@ published: false
 
 A few years back when I had just started cycling, I watched the Rapha Continental "Assynt" movie. It left an impression on me. I'd watched plenty of videos of the big climbs on the continent, and by that time was following le Tour, but this was different. This was shot in Scotland. It was moody, it looked wet and miserable. And accessible. One day I would definitely have the chance to ride those roads. I'd never been to the Assynt area. I'd never listened to the shipping forecast. I'd never bought trendy and expensive cycling clothes, particularly caps, but I could ride those roads and see those sights.
 
-So this was my chance to re-enact that movie. My kit was to be the Green and Blue of COG Velo - Champion Systems not Rapha - but I still wore a cap! I didn't listen to the shipping forecast in the morning, because I planned to ride my bike on the road. Also, happily, the weather wasn't bleak and moody. A bit chilly in the morning, not much Sun, but it was braw day for a cycle: no wind of note.
+So this was my chance to re-enact that movie. My kit was to be the green and blue of COG Velo - Champion Systems not Rapha - but I still wore a cap! I didn't listen to the shipping forecast in the morning, because I planned to ride my bike on the road. Also, happily, the weather wasn't bleak and moody. A bit chilly in the morning, not much Sun, but it was braw day for a cycle: no wind of note.
 
-I thought that while the video is beautifully shot, and the fitting piece of poetry, the conditions and faces of the cyclists featured tell a great story, the real star of the show is the landscape in which it is shot. That was why I was here. I looked at the route profile: Ten miles less than the Bealach Mor, with more elevation gain and no big climbs of note. This was going to be tough.
+I thought that while the video is beautifully shot, and the fitting piece of poetry, the conditions and faces of the cyclists featured really tell the story. I looked at the route profile: Ten miles less than the Bealach Mor, with more elevation gain and no big climbs of note. This was going to be tough, this story was going to be about legs!
 
 There were to be four Coggers on this challenge. Clogs and I made the journey up on Friday night staying at the Ledgowan bunkhouse, we'll enjoy a weeks break up here with family (once our legs have healed). Fran and Steve Crawford were in as well.
 
