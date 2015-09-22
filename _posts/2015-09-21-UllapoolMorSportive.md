@@ -4,9 +4,6 @@ title: "Report: Ullapool Mor Sportive 2015"
 published: true
 ---
 
-
-
-
 |   |   |
 | --- | --- |
 | Date | September 19, 2015 |
