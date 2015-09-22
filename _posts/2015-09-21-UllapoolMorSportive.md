@@ -5,6 +5,7 @@ published: false
 ---
 
 
+
 |   |   |
 | --- | --- |
 | Date | September 19, 2015 |
@@ -18,19 +19,19 @@ published: false
 
 A few years back when I had just started cycling, I watched the Rapha Continental "Assynt" movie. It left an impression on me. I'd watched plenty of videos of the big climbs on the continent, and by that time was following le Tour, but this was different. This was shot in Scotland. It was moody, it looked wet and miserable. And accessible. One day I would definitely have the chance to ride those roads. I'd never been to the Assynt area. I'd never listened to the shipping forecast. I'd never bought trendy and expensive cycling clothes, particularly caps, but I could ride those roads and see those sights.
 
-So this was my chance to re-enact that movie. My kit was to be the green and blue of COG Velo - Champion Systems not Rapha - but I still wore a cap! I didn't listen to the shipping forecast in the morning, because I planned to ride my bike on the road. Also, happily, the weather wasn't bleak and moody. A bit chilly in the morning, not much Sun, but it was braw day for a cycle: no wind of note.
+So this was my chance to re-enact that movie. My kit was to be the green and blue of COG Velo - Champion Systems not Rapha. I didn't listen to the shipping forecast in the morning, because I planned to ride my bike on the road. Also, happily, the weather wasn't bleak and moody. A bit chilly in the morning, not much Sun, but it was braw day for a cycle: no wind of note.
 
-I thought that while the video is beautifully shot, and the fitting piece of poetry, the conditions and faces of the cyclists featured really tell the story. I looked at the route profile: Ten miles less than the Bealach Mor, with more elevation gain and no big climbs of note. This was going to be tough, this story was going to be about legs!
+While the video is beautifully shot, and has a fitting piece of poetry, the conditions and faces of the cyclists featured really tell the story. I looked at the route profile: Ten miles less than the Bealach Mor, with more elevation gain and no big climbs of note. This was going to be tough, this story was going to be about legs!
 
 There were to be four Coggers on this challenge. Clogs and I made the journey up on Friday night staying at the Ledgowan bunkhouse, we'll enjoy a weeks break up here with family (once our legs have healed). Fran and Steve Crawford were in as well.
 
 We got together at about 8, meeting in the car park. Plenty of time to get last minute prep sorted. Most of us added air to our tyres, checked brakes and shifting. I had to turn my hastily installed bottle cage the right way up - idiot!
 
-By 9am, we were at the start line. This time there was no crazy COG-style jump everyone at the lights and burn from the off. This time, we look it easy(ish). Fran was happy to set her own pace so we said our goodbyes before the first turn took us on to the main road. There was a decent sized group with us. We set a steady pace off the front. Up the first climb out of Ullapool and that green shirt that I kept glimpsing wasn't Clogs. Steve's phone buzzed so we stopped and let the group go. Fran had a mechanical just as we left here. Clogs stopped to assist.
+By 9am, we were at the start line. This time there was no crazy COG-style jump everyone at the lights and burn from the off. This time, we look it easy(ish). Fran was happy to set her own pace so we said our goodbyes before the first turn took us on to the main road. There was a decent sized group with us. We set a steady pace off the front. Up the first climb out of Ullapool and that green shirt that I kept glimpsing wasn't Clogs. Steve's phone buzzed so we stopped and let the group go. Fran had a mechanical just as we left her. Clogs stopped to assist.
 
 Steve and I descended back into Ullapool, getting plenty of "you're going to wrong way" patter in the process. I thought "It was funny the first time, it'll be funnier when we pass you in a few minutes...suckerrrrrs!". We regrouped and set off. False start.
 
-I had no idea how the day would pan out. How to you pace yourself for a route that is almost completely undulating? My strategy was to just take each climb as it came. Spin easy at the bottom, and finish with a bit of power. Rest as much as possible on the descents and no crazy hard pulls at the front on the flats. Sensible. This course should surely suit Steve more than Clogs and I, so we'd be saying goodbye to him at some point.
+I had no idea how the day would pan out. How do you pace yourself for a route that is almost completely undulating? My strategy was to just take each climb as it came. Spin easy at the bottom, and finish with a bit of power. Rest as much as possible on the descents and no crazy hard pulls at the front on the flats. Sensible. This course should surely suit Steve more than Clogs and I, so we'd be saying goodbye to him at some point.
 
 On the first section of the course, the stretch of A935 out of Ullapool, I didn't take in much. It was a bit lumpy, we passed many of those "suckers" from the start but that was it. Clogs mentioned something about not feeling it today, that he'd probably peel off at some point soon. He didn't though, and we kept the three-up COG train in motion. We turned left onto the single track road that leads to Achnahaird. Two things happened, 1. I get attacked my midges (I stared in envy at the other two with their leg warmers on). 2. We catch a glimpse of the imposing Stac Pollaidh. We weren't long on this road before it revealed itself - we were heading straight for it. This was a good road to be on as long as you weren't in shorts! Clogs was happy setting a good pace on the front and we let him.
 
