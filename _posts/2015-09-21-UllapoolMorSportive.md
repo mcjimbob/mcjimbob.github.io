@@ -13,7 +13,8 @@ published: true
 | Route | https://www.strava.com/routes/3199747 |
 | Official Time | 05:18:11 (12th) |
 
-<iframe src="https://player.vimeo.com/video/42826812?color=ffffff&title=0&byline=0&portrait=0" width="590" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/42826812">The Rapha Continental: Assynt</a> from <a href="https://vimeo.com/raphafilms">RAPHA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/42826812?color=ffffff&title=0&byline=0&portrait=0" width="590" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 A few years back when I had just started cycling, I watched the Rapha Continental "Assynt" movie. It left an impression on me. I'd watched plenty of videos of the big climbs on the continent, and by that time was following le Tour, but this was different. This was shot in Scotland. It was moody, it looked wet and miserable. And accessible. One day I would definitely have the chance to ride those roads. I'd never been to the Assynt area. I'd never listened to the shipping forecast. I'd never bought trendy and expensive cycling clothes, particularly caps, but I could ride those roads and see those sights.
 
