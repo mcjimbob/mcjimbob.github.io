@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report: Ullapool Mor Sportive 2015"
-published: false
+published: true
 ---
 
 
