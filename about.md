@@ -4,28 +4,20 @@ title: About
 published: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Hiya!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+You have reached the blog of Jimmy Cranky (not a little ginger dude played by a wee Scottish lass, though I am Scottish and my name is Jimmy). I'll be mainly using this blog to ramble on about my cycling adventures. It might be wee bit interesting if you you like cycling, especially the sportive scene in Scotland, but probably not!
 
-There are currently two themes built on Poole:
+### A wee bit about me.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I got into road cycling in 2011 when I decided to make some of my journeys to work by bike. I took advantage of the company Bike to Work scheme and bought a hybrid road bike. At the time my work was 28 miles away, so I quickly lost the weight and got up to fitness! And I totally got the bug.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+So in the following 4 years I turned from an overweight, unfit NOOB into a club cyclist considering doing some racing if time permits. I try to do 4 or 5 sportives a year. I'm not the strongest/fastest but neither am I the slowest. I guess I would describe myself as bang average!
 
-## Setup
+I joined Carse of Gowrie Velo (COG) in 2014 and haven't looked back. If you want to kick on with your cycling, go and join a club - it's the best thing you'll ever do!
 
-Some fun facts about the setup of this project include:
+There are now 2 Cranky Jnrs which limits my training and riding time so I'm now a time-crunched Jimmy Cranky. I get to most club rides on Thursday nights and try to commute (13 miles into Dundee now) most days.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Why "Jimmy Cranky"
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Like most cyclists, I use Strava to record my rides and share and compete with others - for security reasons I suppose, there has been a bit of a trend of using maky-up names, so I chose that. I was able to make a funny avatar. Lolz.
