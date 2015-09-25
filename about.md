@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: Hiya!
 published: true
 ---
-
-## Hiya!
-
 You have reached the blog of Jimmy Cranky (not a little ginger dude played by a wee Scottish lass, though I am Scottish and my name is Jimmy). I'll be mainly using this blog to ramble on about my cycling adventures. It might be wee bit interesting if you you like cycling, especially the sportive scene in Scotland, but probably not!
 
 ### A wee bit about me.
