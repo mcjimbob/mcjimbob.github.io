@@ -5,8 +5,6 @@ comments: true
 ---
 
 
-##Happy Knee Year!
-
 Optimism. That's what this post was supposed to be bursting with. Unashamed, untethered, disgusting OPTIMISM! 
 
 2015 was my strongest year on the bike. Given a couple of easy months to recover followed by the TrainerRoad Sweet-Spot base plan would see me have a guilt-less festive period. I'd be ready to hit some serious sufferfest action in a planned bid to increase my FTP to "loadsa watts", while being the leanest I've been since school. A decent 10-mile time trial time would be the target.
@@ -31,7 +29,7 @@ What now then? Patience. Get better. Then (gradually build up and) hit it hard. 
 
 All being well, what does Cranky's 2016 look like?
 - TT position on the bike 
-- A decent TT time (I'm not going to set a target in stone as I have no idea where I will be now, but I'm hoping for at least a couple of minutes on my time on the COG course from last year, sub-25mins).
+- A decent TT time (I'm not going to set a target in stone as I have no idea where I will be now, but I'm hoping for at least a minute on my time on the COG course from last year, sub-26mins. Would have been sub-25 if my training was going to plan).
 - Archies into Space or whatever crazy fundraiser COG run this year. 
 - Kinross Sportive. Only one I am currently signed up for. Improving on last year, which I was happy with
 - Other sportives. I'm keen for Cairn O' Mount. Should do Tayside, Highland Perthshire as well. I'd like to go and do the Bealach Mor again, Ullapool would be fantastic if it fits in as well. Perhaps the Skye Sportive.
