@@ -28,6 +28,11 @@ Cycling was supposed to be for helping my football. It certainly has, but it's b
 What now then? Patience. Get better. Then (gradually build up and) hit it hard. There you go, optimism (fingers crossed it's not misplaced). 
 
 All being well, what does Cranky's 2016 look like?
+- item
+- item
+- item
+
+
 - TT position on the bike 
 - A decent TT time (I'm not going to set a target in stone as I have no idea where I will be now, but I'm hoping for at least a minute on my time on the COG course from last year, sub-26mins. Would have been sub-25 if my training was going to plan).
 - Archies into Space or whatever crazy fundraiser COG run this year. 
